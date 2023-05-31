@@ -1,9 +1,30 @@
-Hi, I’m David Inyang, I'm passionate about growth and interested in building enterprise systems and having fun while doing it. I’m looking to collaborate or work on interesting and challenging projects. With a demonstrated history of working in the information technology and services industry and with experience in building web applications for small and medium sized businesses.  Whether you’re trying to win work, list your services or even create a whole enterprise system – I can help! 
 
-Skilled in Object-Oriented Programming (OOP), JavaScript, SQL, Web Applications, and Php. I am an experienced, driven, smart, passionate, hard-working, and open minded software developer, an invaluable addition to any team.
+# Hello, my name is David Inyang.
 
+I have a strong enthusiasm for growth and a keen interest in developing enterprise systems while enjoying the process. Currently, I am seeking opportunities to collaborate on engaging and challenging projects. 
+
+My background includes a proven track record in the information technology and services industry, where I have gained experience in constructing web applications specifically designed for small, medium and large sized businesses. 
+
+My expertise lies in Object-Oriented Programming (OOP) Software Development using JavaScript, MySQL, and Php. My core  technologies are not limited to but include Jquery, Laravel, Wordpress, Moodle, Vuejs Bootstrap, SAASS, SCSS, Joomla .
+
+As a software developer, I am experienced and growth driven, motivated, intelligent, passionate, hard-working, and receptive to new ideas. I would be a valuable asset to any team.
+## 🚀 About Me
+I'm a full stack developer...
+
+My expertise lies in Object-Oriented Programming (OOP) Software Development using JavaScript, MySQL, and Php. My core technologies are not limited to but include Jquery, Laravel, Wordpress, Moodle, Vuejs Bootstrap, SAASS, SCSS, Joomla .
+## 🛠 Core Languages
+Javascript, HTML, CSS, PHP, MySQL
+
+
+## 🔗 Connect
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thedavidinyang/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thedavidinyang)
 
 - 📫 You can send a quick email on davidinyang01@gmail.com
+
+
 
 <!---
 thedavidinyang/thedavidinyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
