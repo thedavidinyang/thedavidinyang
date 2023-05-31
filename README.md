@@ -11,7 +11,7 @@ As a software developer, I am experienced and growth driven, motivated, intellig
 ## 🚀 About Me
 I'm a full stack developer...
 
-My expertise lies in Object-Oriented Programming (OOP) Software Development using JavaScript, MySQL, and Php. My core technologies are not limited to but include Jquery, Laravel, Wordpress, Moodle, Vuejs Bootstrap, SAASS, SCSS, Joomla .
+My expertise lies in both Functional and Object-Oriented Programming (OOP) Software Development using JavaScript, MySQL, and Php. My core technologies are not limited to but include Jquery, Laravel, Wordpress, Moodle, Vuejs Bootstrap, SAASS, SCSS, Joomla .
 ## 🛠 Core Languages
 Javascript, HTML, CSS, PHP, MySQL
 
