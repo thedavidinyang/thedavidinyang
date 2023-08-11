@@ -1,4 +1,4 @@
-# Greetings, I'm David Inyang. ![](https://komarev.com/ghpvc/?username=your-thedavidinyang&color=orange&label=-)
+# Greetings, I'm David Inyang. 
 
 Embracing growth with unwavering enthusiasm, I'm driven by a deep passion for crafting enterprise systems that intertwine purpose with the joy of creation. My current pursuit involves seeking opportunities to collaborate on projects that captivate and challenge me.
 
@@ -26,6 +26,9 @@ JavaScript, HTML, CSS, PHP, MySQL
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thedavidinyang/)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thedavidinyang)
+
+
+![](https://komarev.com/ghpvc/?username=your-thedavidinyang&color=orange&label=-)
 
 - 📫 You can send me a quick email on davidinyang01@gmail.com
 
