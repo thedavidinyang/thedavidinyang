@@ -8,7 +8,8 @@ At the heart of my expertise lies a mastery of Object-Oriented Programming (OOP)
 
 As a seasoned software developer, I embody a potent blend of experience and an unquenchable thirst for growth. I'm characterized by motivation, intelligence, passion, diligence, and an openness to novel concepts—an asset poised to enrich any team.
 
-#🚀 A Glimpse of My Journey
+# 🚀 A Glimpse of My Journey
+
 I'm a full stack developer and a discerning software architect...
 
 My expertise seamlessly bridges both the Functional and Object-Oriented Programming (OOP) realms, seamlessly weaving JavaScript, MySQL, and PHP into innovative solutions. My toolkit extends beyond to encompass Jquery, Laravel, Wordpress, Moodle, Vuejs Bootstrap, SAASS, SCSS, Joomla, and my proficiency in administering Linux servers.
