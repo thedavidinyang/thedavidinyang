@@ -36,14 +36,17 @@ JavaScript, HTML, CSS, PHP, MySQL
 # Here are some public projects I've worked on
 
 - [Metrohype](https://metrohyp.com/)
+- [Phoenix Medical Clinic](https://phoenixmedicalclinic.ca/)
 - [Kunbi Works Store](https://kunbiworks.com/)
 - [Vox Technologies](https://voxtechnologies.com/)
 - [Ettekamba](https://ettekamba.com/)
 - [SoftwareHub NG](https://softwarehub.ng/) 
 - [Qampusplus LMS](https://qampusplms.com/)
 - [Qampusplus Payments](https://payments.qampusplus.com/)
-- [GLS Abuja](https://glsabuja.com/)
 - [Modesta Store](https://new.modesta.com.ng/)
+- [GLS Abuja](https://glsabuja.com/)
+  
+
 
 
 <!---
