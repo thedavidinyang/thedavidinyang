@@ -45,6 +45,8 @@ JavaScript, HTML, CSS, PHP, MySQL
 - [Qampusplus Payments](https://payments.qampusplus.com/)
 - [Modesta Store](https://new.modesta.com.ng/)
 - [GLS Abuja](https://glsabuja.com/)
+- [Crosspage Energy](https://crosspageenergy.com/)
+- [Cross-River State Hydrocarbon and Solid Minerals Development Agency](https://crhsmda.com.ng/)
   
 
 
