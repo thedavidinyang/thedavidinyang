@@ -50,7 +50,8 @@ JavaScript, HTML, CSS, PHP, MySQL
 - [Cross-River State Hydrocarbon and Solid Minerals Development Agency](https://crhsmda.com.ng/)
 - [Quocreo Technologies Limited](https://www.quocreo.com/)
 - [RADIO BENUE CORPORATION, MAKURDI](https://radiobenue.com/)
-- [39 Queen Street Conferences](http://39queenstreet.ca/)
+- [39 Queen Street Conferences](https://39queenstreet.ca/)
+- [Geemla Technologies](https://geemlatech.com/)
   
 
 
