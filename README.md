@@ -36,7 +36,7 @@ JavaScript, HTML, CSS, PHP, MySQL
 
 # Here are some public projects I've worked on
 
-- [Metrohype](https://metrohyp.com/)
+- [Metrohype Digital](https://metrohyp.com/)
 - [Phoenix Medical Clinic](https://phoenixmedicalclinic.ca/)
 - [Kunbi Works Store](https://kunbiworks.com/)
 - [Vox Technologies](https://voxtechnologies.com/)
@@ -49,7 +49,7 @@ JavaScript, HTML, CSS, PHP, MySQL
 - [Crosspage Energy](https://crosspageenergy.com/)
 - [Cross-River State Hydrocarbon and Solid Minerals Development Agency](https://crhsmda.com.ng/)
 - [Quocreo Technologies Limited](https://www.quocreo.com/)
-- [RADIO BENUE CORPORATION, MAKURDI](https://radiobenue.com/)
+- [Radio Benue Corporation, Markurdi, Nigeria](https://radiobenue.com/)
 - [39 Queen Street Conferences](https://39queenstreet.ca/)
 - [Geemla Technologies](https://geemlatech.com/)
   
