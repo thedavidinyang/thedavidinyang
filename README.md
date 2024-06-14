@@ -40,7 +40,7 @@ JavaScript, HTML, CSS, PHP, MySQL
 - [Phoenix Medical Clinic](https://phoenixmedicalclinic.ca/)
 - [Kunbi Works Store](https://kunbiworks.com/)
 - [Vox Technologies](https://voxtechnologies.com/)
-- [Ettekamba](https://ettekamba.com/)
+- [Ettekamba Designs](https://ettekamba.com/)
 - [SoftwareHub NG](https://softwarehub.ng/) 
 - [Qampusplus LMS](https://qampusplms.com/)
 - [Qampusplus Payments](https://payments.qampusplus.com/)
