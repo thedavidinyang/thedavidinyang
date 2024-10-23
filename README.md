@@ -53,7 +53,7 @@ JavaScript, HTML, CSS, PHP, MySQL
 - [Radio Benue Corporation, Markurdi, Nigeria](https://radiobenue.com/)
 - [39 Queen Street Conferences](https://39queenstreet.ca/)
 - [Geemla Technologies](https://geemlatech.com/)
-- [Qampusplus Website](qampusplus.com/)
+- [Qampusplus Website](http://qampusplus.com/)
   
 
 
