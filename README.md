@@ -54,6 +54,7 @@ JavaScript, HTML, CSS, PHP, MySQL
 - [39 Queen Street Conferences](https://39queenstreet.ca/)
 - [Geemla Technologies](https://geemlatech.com/)
 - [Qampusplus Website](https://qampusplus.com/)
+- [Veritex Business Solution](https://vbs.ng/)
   
 
 
