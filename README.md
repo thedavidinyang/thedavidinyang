@@ -55,6 +55,7 @@ JavaScript, HTML, CSS, PHP, MySQL
 - [Geemla Technologies](https://geemlatech.com/)
 - [Qampusplus Website](https://qampusplus.com/)
 - [Veritex Business Solution](https://vbs.ng/)
+- [Sweetsmoke](https://sweetsmoke.ca/)
   
 
 
