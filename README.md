@@ -37,6 +37,9 @@ JavaScript, HTML, CSS, PHP, MySQL
 
 # Here are some public projects I've worked on
 
+
+- [Quocreo Technologies Limited](https://www.quocreo.com/)
+- [Sweetsmoke](https://sweetsmoke.ca/)
 - [Metrohype Digital](https://metrohyp.com/)
 - [Phoenix Medical Clinic](https://phoenixmedicalclinic.ca/)
 - [Kunbi Works Store](https://kunbiworks.com/)
@@ -49,13 +52,12 @@ JavaScript, HTML, CSS, PHP, MySQL
 - [GLS Abuja](https://glsabuja.com/)
 - [Crosspage Energy](https://crosspageenergy.com/)
 - [Cross-River State Hydrocarbon and Solid Minerals Development Agency](https://crhsmda.com.ng/)
-- [Quocreo Technologies Limited](https://www.quocreo.com/)
 - [Radio Benue Corporation, Markurdi, Nigeria](https://radiobenue.com/)
 - [39 Queen Street Conferences](https://39queenstreet.ca/)
 - [Geemla Technologies](https://geemlatech.com/)
 - [Qampusplus Website](https://qampusplus.com/)
 - [Veritex Business Solution](https://vbs.ng/)
-- [Sweetsmoke](https://sweetsmoke.ca/)
+
   
 
 
