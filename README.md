@@ -30,10 +30,15 @@ JavaScript, HTML, CSS, PHP, MySQL
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thedavidinyang)
 
 
+
+
+
 ![](https://komarev.com/ghpvc/?username=your-thedavidinyang&color=orange&label=-)
 
-- 📫 You can send me a quick email on davidinyang01@gmail.com
-  
+- 📫 You can send me an email on davidinyang01@gmail.com
+
+
+
 
 # Here are some public projects I've worked on
 
@@ -59,10 +64,14 @@ JavaScript, HTML, CSS, PHP, MySQL
 - [Veritex Business Solution](https://vbs.ng/)
 
   
+## 🤍 Support
+
+<p >
+  <a href="https://ko-fi.com/thedavidinyang">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="thedavidinyang" width="20%"
+  </a>
+</p>
 
 
 
-<!---
-thedavidinyang/thedavidinyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
