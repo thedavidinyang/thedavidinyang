@@ -1,4 +1,4 @@
-# Greetings 👋, I m David Inyang
+# Greetings 👋, I am David Inyang
 ## Software Engineer, Software Architect and IT Infrastructure Engineer 
 
 Embracing growth with unwavering enthusiasm, I'm driven by a deep passion for crafting enterprise systems that intertwine purpose with the joy of creation. My current pursuit involves seeking opportunities to collaborate on projects that captivate and challenge me.
