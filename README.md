@@ -43,7 +43,7 @@ JavaScript, HTML, CSS, PHP, MySQL
 # Here are some public projects I've worked on
 
 
-- [Quocreo Technologies Limited](https://www.quocreo.com/)
+- [Quocreo Technologies Limited](https://www.quocreo.ng/)
 - [Sweetsmoke](https://sweetsmoke.ca/)
 - [Metrohype Digital](https://metrohyp.com/)
 - [Phoenix Medical Clinic](https://phoenixmedicalclinic.ca/)
