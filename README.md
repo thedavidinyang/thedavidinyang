@@ -35,7 +35,7 @@ JavaScript, HTML, CSS, PHP, MySQL
 
 ![](https://komarev.com/ghpvc/?username=your-thedavidinyang&color=orange&label=-)
 
-- 📫 You can send me an email on davidinyang01@gmail.com
+- 📫 You can send me an email on thedavidinyang@gmail.com
 
 
 
