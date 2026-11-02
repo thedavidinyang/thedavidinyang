@@ -3,9 +3,14 @@
 
 Embracing growth with unwavering enthusiasm, I'm driven by a deep passion for crafting enterprise systems that intertwine purpose with the joy of creation. My current pursuit involves seeking opportunities to collaborate on projects that captivate and challenge me.
 
-My journey thus far showcases a compelling track record within the information technology and services landscape. Here, I've garnered substantial experience architecting web applications meticulously tailored to meet the needs of businesses spanning the spectrum from small startups to established enterprises.
+David Inyang is a seasoned Software Engineer, Software Architect, and IT Infrastructure Engineer with over 14 years of experience designing, developing, and deploying innovative software solutions. He has a strong passion for leveraging technology to solve complex business challenges, improve operational efficiency, and drive digital transformation. His expertise spans enterprise application development, software architecture, cloud infrastructure, and the delivery of scalable technology solutions. Throughout his career, he has contributed to projects across diverse industries, combining technical excellence with a commitment to building reliable, secure, and user-focused systems.
 
-At the heart of my expertise lies a mastery of Object-Oriented Programming (OOP) Software Development, employing the dynamic trio of JavaScript, MySQL, and PHP. My toolkit expands to encompass a versatile repertoire of technologies including jQuery, Laravel, Wordpress, Moodle, Vue.js, Bootstrap, SAASS, SCSS, Joomla, AWS, Linux systems, and the administration of Linux servers.
+David provides technical leadership in the design, development, and implementation of software solutions that support organisational business objectives. His responsibilities encompass system design, software architecture, application development, infrastructure management, and the adoption of modern technologies to enhance operational performance. With a strong foundation in full-stack development, cloud technologies, and systems engineering, he works to ensure that technology initiatives deliver practical business value, foster innovation, and support sustainable growth.
+
+My unique combination of technical expertise, strategic thinking, problem-solving abilities, and commitment to excellence makes me an invaluable member of any team. Through my dedication to innovation, collaborative leadership, and passion for delivering impactful technology solutions, I play a vital role in strengthening organisational technological capabilities and positioning it for continued growth and success.
+
+
+
 
 As a seasoned software developer, I embody a potent blend of experience and an unquenchable thirst for growth. I'm characterized by motivation, intelligence, passion, diligence, and an openness to novel concepts—an asset poised to enrich any team.
 
